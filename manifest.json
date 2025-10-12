@@ -1,0 +1,38 @@
+{
+  "$schema": "./repo-schema.json",
+  "name": "a新たなる宝物庫！",
+  "repository": "https://github.com/new/repo-b",
+  "items": [
+    {
+      "id": "item-b01",
+      "name": "a背景色自動変更",
+      "version": "3.1.4",
+      "author": "sorcerer-merlin",
+      "description": "時間帯に応じてウェブサイトの背景色を自動で変更する魔法じゃ。",
+      "published_at": "2024-09-01",
+      "updated_at": "2024-10-05",
+      "contents": [
+        {
+          "matches": ["//*.booth.pm/*/jha/aas"],
+          "js": "color-shift.js"
+        }
+      ]
+    },
+    {
+      "id": "item-b02",
+      "name": "aキーボードショートカット追加",
+      "version": "1.0.0",
+      "author": "speedy-typer",
+      "description": "よく使う操作にキーボードショートカットを割り当てるのじゃ。",
+      "published_at": "2024-11-20",
+      "updated_at": "2024-11-20",
+      "contents": [
+        {
+          "matches": ["//*.booth.pm/*"],
+          "exclude_matches": ["//mukumi.booth.pm/print/*"],
+          "js": "key-binder.js"
+        }
+      ]
+    }
+  ]
+}
