@@ -1,11 +1,11 @@
 {
   "$schema": "./repo-schema.json",
-  "name": "a新たなる宝物庫！",
+  "name": "新たなる宝物庫！！",
   "repository": "https://github.com/new/repo-b",
   "items": [
     {
       "id": "item-b01",
-      "name": "a背景色自動変更",
+      "name": "背景色自動変更",
       "version": "3.1.4",
       "author": "sorcerer-merlin",
       "description": "時間帯に応じてウェブサイトの背景色を自動で変更する魔法じゃ。",
@@ -20,7 +20,7 @@
     },
     {
       "id": "item-b02",
-      "name": "aキーボードショートカット追加",
+      "name": "キーボードショートカット追加",
       "version": "1.0.0",
       "author": "speedy-typer",
       "description": "よく使う操作にキーボードショートカットを割り当てるのじゃ。",
