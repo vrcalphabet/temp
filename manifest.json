@@ -1,7 +1,6 @@
 {
   "$schema": "./repo-schema.json",
   "name": "新たなる宝物庫！！",
-  "repository": "https://github.com/new/repo-b",
   "items": [
     {
       "id": "item-b01",
